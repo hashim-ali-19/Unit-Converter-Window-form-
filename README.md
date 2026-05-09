@@ -1,7 +1,7 @@
 # Unit Converter - Windows Forms App
+![Home Page Screenshot](interface.png)
 
-![unit converter] (interface.png)
-
+---
 
 A simple Unit Converter application built using C# and .NET Windows Forms.  
 This project allows users to convert values between different length units such as:
